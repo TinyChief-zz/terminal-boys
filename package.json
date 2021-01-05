@@ -15,7 +15,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.5",
     "@gridsome/source-filesystem": "^0.3.0",
     "@gridsome/transformer-remark": "^0.2.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "dotenv": "^7.0.0",
     "gridsome": "^0.5.5",
     "highlight.js": "^9.15.6",
